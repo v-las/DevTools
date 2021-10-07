@@ -1,5 +1,5 @@
-### Devtools HW 01
-##### Выполнение
+# Devtools HW 01
+### Выполнение
 [![VKQAC DevTools Homework #01](https://user-images.githubusercontent.com/89486551/136409359-48f8e883-5fc5-454b-9892-043adf581453.png)](https://www.youtube.com/watch?v=S61CSThmkI8)
 ===
 1. Открыть Chrome DevTools
