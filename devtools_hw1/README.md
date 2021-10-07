@@ -1,7 +1,5 @@
 ### Devtools HW 01
 ##### Выполнение
-<iframe width="420" height="236" src="https://www.youtube.com/embed/S61CSThmkI8">
-</iframe>
 
 ---
 Сделать скрин видео выполнения задания.
