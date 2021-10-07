@@ -1,6 +1,6 @@
 ### Devtools HW 01
 ##### Выполнение
-[![VKQAC DevTools Homework #01](https://user-images.githubusercontent.com/89486551/136387010-e583498b-c1cd-4fd3-8764-270e0ffe912d.png)](https://www.youtube.com/watch?v=S61CSThmkI8)
+[![VKQAC DevTools Homework #01](https://user-images.githubusercontent.com/89486551/136409359-48f8e883-5fc5-454b-9892-043adf581453.png)](https://www.youtube.com/watch?v=S61CSThmkI8)
 ---
 1. Открыть Chrome DevTools
 2. Зайти в панель Elements.
