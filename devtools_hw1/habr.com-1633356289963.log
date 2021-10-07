@@ -1,0 +1,230 @@
+/img/px.gif?ch=2&rn=430685:1 GET https://habr.com/img/px.gif?ch=2&rn=430685 net::ERR_BLOCKED_BY_CLIENT
+Image (async)
+(anonymous) @ app.211241c5.js:1
+Mu @ app.211241c5.js:1
+Nu @ app.211241c5.js:1
+xu @ app.211241c5.js:1
+detectAcceptableAds @ app.211241c5.js:1
+(anonymous) @ chunk-vendors.e52202e0.js:23
+g.dispatch @ chunk-vendors.e52202e0.js:23
+dispatch @ chunk-vendors.e52202e0.js:23
+o.dispatch @ chunk-vendors.e52202e0.js:23
+findOutAdblockStatus @ app.211241c5.js:1
+(anonymous) @ chunk-vendors.e52202e0.js:23
+g.dispatch @ chunk-vendors.e52202e0.js:23
+dispatch @ chunk-vendors.e52202e0.js:23
+a949 @ app.211241c5.js:1
+c @ app.211241c5.js:1
+0 @ app.211241c5.js:1
+c @ app.211241c5.js:1
+n @ app.211241c5.js:1
+(anonymous) @ app.211241c5.js:1
+(anonymous) @ app.211241c5.js:1
+chunk-vendors.e52202e0.js:112 [GPT] Div ID passed to googletag.display() does not match any defined slots: articleBottomBanner.
+(anonymous) @ chunk-vendors.e52202e0.js:112
+(anonymous) @ pubads_impl_2021092201.js?31062996:11
+HD.log @ pubads_impl_2021092201.js?31062996:11
+HD.error @ pubads_impl_2021092201.js?31062996:11
+rh @ pubads_impl_2021092201.js?31062996:6
+(anonymous) @ pubads_impl_2021092201.js?31062996:6
+(anonymous) @ pubads_impl_2021092201.js?31062996:6
+(anonymous) @ app.211241c5.js:1
+displaySlots @ app.211241c5.js:1
+(anonymous) @ chunk-vendors.e52202e0.js:23
+g.dispatch @ chunk-vendors.e52202e0.js:23
+dispatch @ chunk-vendors.e52202e0.js:23
+o.dispatch @ chunk-vendors.e52202e0.js:23
+M.forEach.n.<computed> @ chunk-vendors.e52202e0.js:23
+(anonymous) @ app.211241c5.js:1
+(anonymous) @ chunk-vendors.e52202e0.js:7
+fe @ chunk-vendors.e52202e0.js:7
+Promise.then (async)
+ae @ chunk-vendors.e52202e0.js:7
+ve @ chunk-vendors.e52202e0.js:7
+t.$nextTick @ chunk-vendors.e52202e0.js:7
+(anonymous) @ app.211241c5.js:1
+Promise.then (async)
+defineSlots @ app.211241c5.js:1
+mounted @ app.211241c5.js:1
+re @ chunk-vendors.e52202e0.js:7
+Fn @ chunk-vendors.e52202e0.js:7
+insert @ chunk-vendors.e52202e0.js:7
+C @ chunk-vendors.e52202e0.js:7
+(anonymous) @ chunk-vendors.e52202e0.js:7
+Nn.t._update @ chunk-vendors.e52202e0.js:7
+r @ chunk-vendors.e52202e0.js:7
+rr.get @ chunk-vendors.e52202e0.js:7
+rr @ chunk-vendors.e52202e0.js:7
+Dn @ chunk-vendors.e52202e0.js:7
+jr.$mount @ chunk-vendors.e52202e0.js:7
+(anonymous) @ app.211241c5.js:1
+ee.onReady @ chunk-vendors.e52202e0.js:62
+we.onReady @ chunk-vendors.e52202e0.js:62
+(anonymous) @ app.211241c5.js:1
+Promise.then (async)
+a949 @ app.211241c5.js:1
+c @ app.211241c5.js:1
+0 @ app.211241c5.js:1
+c @ app.211241c5.js:1
+n @ app.211241c5.js:1
+(anonymous) @ app.211241c5.js:1
+(anonymous) @ app.211241c5.js:1
+chunk-vendors.e52202e0.js:112 [GPT] Div ID passed to googletag.display() does not match any defined slots: sidebarBanner.
+(anonymous) @ chunk-vendors.e52202e0.js:112
+(anonymous) @ pubads_impl_2021092201.js?31062996:11
+HD.log @ pubads_impl_2021092201.js?31062996:11
+HD.error @ pubads_impl_2021092201.js?31062996:11
+rh @ pubads_impl_2021092201.js?31062996:6
+(anonymous) @ pubads_impl_2021092201.js?31062996:6
+(anonymous) @ pubads_impl_2021092201.js?31062996:6
+(anonymous) @ app.211241c5.js:1
+displaySlots @ app.211241c5.js:1
+(anonymous) @ chunk-vendors.e52202e0.js:23
+g.dispatch @ chunk-vendors.e52202e0.js:23
+dispatch @ chunk-vendors.e52202e0.js:23
+o.dispatch @ chunk-vendors.e52202e0.js:23
+M.forEach.n.<computed> @ chunk-vendors.e52202e0.js:23
+(anonymous) @ app.211241c5.js:1
+(anonymous) @ chunk-vendors.e52202e0.js:7
+fe @ chunk-vendors.e52202e0.js:7
+Promise.then (async)
+ae @ chunk-vendors.e52202e0.js:7
+ve @ chunk-vendors.e52202e0.js:7
+t.$nextTick @ chunk-vendors.e52202e0.js:7
+(anonymous) @ app.211241c5.js:1
+Promise.then (async)
+defineSlots @ app.211241c5.js:1
+mounted @ app.211241c5.js:1
+re @ chunk-vendors.e52202e0.js:7
+Fn @ chunk-vendors.e52202e0.js:7
+insert @ chunk-vendors.e52202e0.js:7
+C @ chunk-vendors.e52202e0.js:7
+(anonymous) @ chunk-vendors.e52202e0.js:7
+Nn.t._update @ chunk-vendors.e52202e0.js:7
+r @ chunk-vendors.e52202e0.js:7
+rr.get @ chunk-vendors.e52202e0.js:7
+rr @ chunk-vendors.e52202e0.js:7
+Dn @ chunk-vendors.e52202e0.js:7
+jr.$mount @ chunk-vendors.e52202e0.js:7
+(anonymous) @ app.211241c5.js:1
+ee.onReady @ chunk-vendors.e52202e0.js:62
+we.onReady @ chunk-vendors.e52202e0.js:62
+(anonymous) @ app.211241c5.js:1
+Promise.then (async)
+a949 @ app.211241c5.js:1
+c @ app.211241c5.js:1
+0 @ app.211241c5.js:1
+c @ app.211241c5.js:1
+n @ app.211241c5.js:1
+(anonymous) @ app.211241c5.js:1
+(anonymous) @ app.211241c5.js:1
+chunk-vendors.e52202e0.js:112 [GPT] Div ID passed to googletag.display() does not match any defined slots: articleBottomBanner.
+(anonymous) @ chunk-vendors.e52202e0.js:112
+(anonymous) @ pubads_impl_2021092201.js?31062996:11
+HD.log @ pubads_impl_2021092201.js?31062996:11
+HD.error @ pubads_impl_2021092201.js?31062996:11
+rh @ pubads_impl_2021092201.js?31062996:6
+(anonymous) @ pubads_impl_2021092201.js?31062996:6
+(anonymous) @ pubads_impl_2021092201.js?31062996:6
+(anonymous) @ app.211241c5.js:1
+displaySlots @ app.211241c5.js:1
+(anonymous) @ chunk-vendors.e52202e0.js:23
+g.dispatch @ chunk-vendors.e52202e0.js:23
+dispatch @ chunk-vendors.e52202e0.js:23
+o.dispatch @ chunk-vendors.e52202e0.js:23
+M.forEach.n.<computed> @ chunk-vendors.e52202e0.js:23
+(anonymous) @ app.211241c5.js:1
+(anonymous) @ chunk-vendors.e52202e0.js:7
+fe @ chunk-vendors.e52202e0.js:7
+Promise.then (async)
+ae @ chunk-vendors.e52202e0.js:7
+ve @ chunk-vendors.e52202e0.js:7
+t.$nextTick @ chunk-vendors.e52202e0.js:7
+(anonymous) @ app.211241c5.js:1
+Promise.then (async)
+defineSlots @ app.211241c5.js:1
+mounted @ app.211241c5.js:1
+re @ chunk-vendors.e52202e0.js:7
+Fn @ chunk-vendors.e52202e0.js:7
+insert @ chunk-vendors.e52202e0.js:7
+C @ chunk-vendors.e52202e0.js:7
+(anonymous) @ chunk-vendors.e52202e0.js:7
+Nn.t._update @ chunk-vendors.e52202e0.js:7
+r @ chunk-vendors.e52202e0.js:7
+rr.get @ chunk-vendors.e52202e0.js:7
+rr @ chunk-vendors.e52202e0.js:7
+Dn @ chunk-vendors.e52202e0.js:7
+jr.$mount @ chunk-vendors.e52202e0.js:7
+(anonymous) @ app.211241c5.js:1
+ee.onReady @ chunk-vendors.e52202e0.js:62
+we.onReady @ chunk-vendors.e52202e0.js:62
+(anonymous) @ app.211241c5.js:1
+Promise.then (async)
+a949 @ app.211241c5.js:1
+c @ app.211241c5.js:1
+0 @ app.211241c5.js:1
+c @ app.211241c5.js:1
+n @ app.211241c5.js:1
+(anonymous) @ app.211241c5.js:1
+(anonymous) @ app.211241c5.js:1
+chunk-vendors.e52202e0.js:112 [GPT] Div ID passed to googletag.display() does not match any defined slots: sidebarBanner.
+(anonymous) @ chunk-vendors.e52202e0.js:112
+(anonymous) @ pubads_impl_2021092201.js?31062996:11
+HD.log @ pubads_impl_2021092201.js?31062996:11
+HD.error @ pubads_impl_2021092201.js?31062996:11
+rh @ pubads_impl_2021092201.js?31062996:6
+(anonymous) @ pubads_impl_2021092201.js?31062996:6
+(anonymous) @ pubads_impl_2021092201.js?31062996:6
+(anonymous) @ app.211241c5.js:1
+displaySlots @ app.211241c5.js:1
+(anonymous) @ chunk-vendors.e52202e0.js:23
+g.dispatch @ chunk-vendors.e52202e0.js:23
+dispatch @ chunk-vendors.e52202e0.js:23
+o.dispatch @ chunk-vendors.e52202e0.js:23
+M.forEach.n.<computed> @ chunk-vendors.e52202e0.js:23
+(anonymous) @ app.211241c5.js:1
+(anonymous) @ chunk-vendors.e52202e0.js:7
+fe @ chunk-vendors.e52202e0.js:7
+Promise.then (async)
+ae @ chunk-vendors.e52202e0.js:7
+ve @ chunk-vendors.e52202e0.js:7
+t.$nextTick @ chunk-vendors.e52202e0.js:7
+(anonymous) @ app.211241c5.js:1
+Promise.then (async)
+defineSlots @ app.211241c5.js:1
+mounted @ app.211241c5.js:1
+re @ chunk-vendors.e52202e0.js:7
+Fn @ chunk-vendors.e52202e0.js:7
+insert @ chunk-vendors.e52202e0.js:7
+C @ chunk-vendors.e52202e0.js:7
+(anonymous) @ chunk-vendors.e52202e0.js:7
+Nn.t._update @ chunk-vendors.e52202e0.js:7
+r @ chunk-vendors.e52202e0.js:7
+rr.get @ chunk-vendors.e52202e0.js:7
+rr @ chunk-vendors.e52202e0.js:7
+Dn @ chunk-vendors.e52202e0.js:7
+jr.$mount @ chunk-vendors.e52202e0.js:7
+(anonymous) @ app.211241c5.js:1
+ee.onReady @ chunk-vendors.e52202e0.js:62
+we.onReady @ chunk-vendors.e52202e0.js:62
+(anonymous) @ app.211241c5.js:1
+Promise.then (async)
+a949 @ app.211241c5.js:1
+c @ app.211241c5.js:1
+0 @ app.211241c5.js:1
+c @ app.211241c5.js:1
+n @ app.211241c5.js:1
+(anonymous) @ app.211241c5.js:1
+(anonymous) @ app.211241c5.js:1
+vk.com/rtrg?p=VK-RTRG-421343-57vKE:1 GET https://vk.com/rtrg?p=VK-RTRG-421343-57vKE net::ERR_BLOCKED_BY_CLIENT
+Image (async)
+(anonymous) @ (index):511
+r @ chunk-vendors.e52202e0.js:112
+setTimeout (async)
+(anonymous) @ chunk-vendors.e52202e0.js:112
+(anonymous) @ (index):509
+load (async)
+(anonymous) @ (index):508
+service-worker.js:22 Uncaught ReferenceError: workbox is not defined
+    at service-worker.js:22
+(anonymous) @ service-worker.js:22
